@@ -1,6 +1,6 @@
 # Hello! I'm Will! 👋🏻 👨🏼‍💻
 
-<img src="logo.gif" alt="Gif that shows my personal logal" height="50%" width="50%"/>
+<img src="logo.gif" alt="Gif that shows my personal logal" height="100%" width="100%"/>
 
 <!--
 **willuhm-js/willuhm-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
