@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a High School software engineer who spends their free time programming as I enjoy it and want to be prepared for college and eventually my future careers. I try to work on challenging projects that reflect my skill level, but occasionaly induldge in things that are simple but useful, or simply fun to make. I use technologies such as Javascript/NodeJS and Python to build amazing things. I hope to become more involved in the tech community and gain more programming skills as I grow and graduate High School.
