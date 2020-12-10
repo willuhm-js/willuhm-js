@@ -1,7 +1,7 @@
 # Hello! I'm Will! 👋🏻 👨🏼‍💻
 
 
-<img src="logo.gif" style="height: 50%; width: 50%;"/>
+[](logo.gif =960x720)
 
 <!--
 **willuhm-js/willuhm-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
