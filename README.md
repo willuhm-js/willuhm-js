@@ -14,4 +14,4 @@
 
 I'm a high school student and software engineer who spends his time learning new technologies and growing his programming experience. I try to work on challenging projects that reflect/improve my skills but occasionally indulge in projects that are simple, useful, or fun to make. I use technologies such as Javascript/NodeJS and Python to build amazing things. I hope to become more involved in the tech community and gain more programming skills as I grow and graduate high school.
 
-(Pro tip: read this in Dark Theme) for better visibility)
+(Pro tip: read this in dark theme for better visibility)
