@@ -4,7 +4,7 @@
 
 ## About Me
 - ✍🏻 I'm working on: Various projects! Checkout my profile.
-- 🏫 I'm currently learning: Python and other technologies.
+- 🏫 I'm currently learning: Code Organization, Python/other technologies.
 - 👥 I'm looking to collaborate with: Anyone who wants to learn with me!
 - 🇩🇪 Fun Fact: I'm learning German.
 
