@@ -18,7 +18,9 @@ I'm a high school student and software engineer who spends his time learning new
 
 ## Languages
 <img alt="Javascript" width="35px" src="045-javascript.svg" /> Javascript/NodeJS: Used for web applications
+<br>
 <img alt="Python" width="35px" src="060-python.svg" /> Python: Used for machine learning
+<br>
 <img alt="C sharp" width="35px" src="012-c sharp" /> C#: Used for Unity games and Microsoft Form applications
 
 (Pro tip: read this in dark theme for better visibility)
