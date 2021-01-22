@@ -12,6 +12,11 @@
 
 [![William Faircloth's github stats](https://github-readme-stats.vercel.app/api?username=willuhm-js&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a high school student and software engineer who spends his time learning new technologies and growing his programming experience. I try to work on challenging projects that reflect/improve my skills but occasionally indulge in projects that are simple, useful, or fun to make. I use technologies such as Javascript/NodeJS and Python to build amazing things. I hope to become more involved in the tech community and gain more programming skills as I grow and graduate high school.
+I'm a high school student and software engineer who spends his time learning new technologies and growing his programming experience. I try to work on challenging projects that reflect/improve my skills but occasionally indulge in projects that are simple, useful, or fun to make. I hope to become more involved in the tech community and gain more programming skills as I grow and graduate high school.
+
+<br>
+
+## Languages
+<img alt="Javascript" width="35px" src="045-javascript.png" />
 
 (Pro tip: read this in dark theme for better visibility)
