@@ -17,6 +17,6 @@ I'm a high school student and software engineer who spends his time learning new
 <br>
 
 ## Languages
-<img alt="Javascript" width="35px" src="045-javascript.png" />
+<svg alt="Javascript" width="35px" src="045-javascript.png" />
 
 (Pro tip: read this in dark theme for better visibility)
