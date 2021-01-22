@@ -21,6 +21,6 @@ I'm a high school student and software engineer who spends his time learning new
 <br>
 <img alt="Python" width="35px" src="060-python.svg" /> Python: Used for machine learning
 <br>
-<img alt="C sharp" width="35px" src="012-c sharp" /> C#: Used for Unity games and Microsoft Form applications
+<img alt="C sharp" width="35px" src="012-c sharp.svg" /> C#: Used for Unity games and Microsoft Form applications
 
 (Pro tip: read this in dark theme for better visibility)
