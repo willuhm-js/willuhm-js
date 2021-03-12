@@ -4,7 +4,7 @@
 
 ## About Me
 - ✍🏻 I'm working on: Various projects! Checkout my profile.
-- 🏫 I'm currently learning: C#/Unity, React
+- 🏫 I'm currently learning: C# and Unity.
 - 👥 I'm looking to collaborate with: Anyone who wants to learn with me!
 - 🇩🇪 Fun Fact: I'm learning German.
 
