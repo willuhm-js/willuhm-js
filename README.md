@@ -16,8 +16,7 @@ I'm a high school student and software engineer who spends his time learning new
 
 ## Languages
 - Javascript/NodeJS: Used for web applications
-- Python: Used for machine learning
-- C#: Used for Unity games and Microsoft Form applications
+- C#: Used for Unity games and form applications
 
 <br>
 
