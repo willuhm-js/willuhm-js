@@ -4,7 +4,7 @@
 
 ## About Me
 - ✍🏻 I'm working on: Various projects! Checkout my profile.
-- 🏫 I'm currently learning: Python and cryptography
+- 🏫 I'm currently learning: React
 - 👥 I'm looking to collaborate with: Anyone who wants to learn with me!
 - 🇩🇪 Fun Fact: I'm learning German.
 
