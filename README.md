@@ -4,7 +4,7 @@
 
 ## About Me
 - ✍🏻 I'm working on: Various projects! Checkout my profile.
-- 🏫 I'm currently learning: React
+- 🏫 I'm currently learning: C#
 - 👥 I'm looking to collaborate with: Anyone who wants to learn with me!
 - 🇩🇪 Fun Fact: I'm learning German.
 
@@ -15,7 +15,7 @@
 I'm a high school student and software engineer who spends his time learning new technologies and growing his programming experience. I try to work on challenging projects that reflect/improve my skills but occasionally indulge in projects that are simple, useful, or fun to make. I hope to become more involved in the tech community and gain more programming skills as I grow and graduate high school.
 
 ## Languages
-- Javascript/NodeJS: Used for web applications
+- Javascript (NodeJS): Used for web applications
 
 <br>
 
