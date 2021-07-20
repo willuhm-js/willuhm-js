@@ -1,6 +1,6 @@
 # Hello! I'm Will! 👋🏻 👨🏼‍💻
 
-<img src="willuhm.gif" padding="10px;" alt="Gif that shows my personal logo" width="90%" height="90%"/>
+<img src="willuhmjs.gif" padding="10px;" alt="Gif that shows my personal logo" width="90%" height="90%"/>
 
 ## About Me
 - ✍🏻 I'm working on: Various projects! Checkout my profile.
